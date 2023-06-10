@@ -1,5 +1,4 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import React, { Component } from "react";
 import RNFetchBlob from "rn-fetch-blob";
 import { showLoading, showMessaage } from "../components/DialogHandler";
 import Constants from "./Constants";

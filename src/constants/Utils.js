@@ -1,5 +1,3 @@
-import React, { Component } from 'react';
-import { StyleSheet, Text, ScrollView, View, PermissionsAndroid } from 'react-native';
 
 export const getTime = () => {
 	let currentDate = new Date();

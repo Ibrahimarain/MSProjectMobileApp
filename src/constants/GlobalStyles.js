@@ -1,7 +1,6 @@
-import {StyleSheet} from 'react-native' ;
-import { widthPercentageToDP } from 'react-native-responsive-screen';
-import  WP  from './WP';
+import { StyleSheet } from 'react-native';
 import Colors from './Colors';
+import WP from './WP';
 // const WP = widthPercentageToDP
 const GlobalStyles = StyleSheet.create({
     shadow :{
